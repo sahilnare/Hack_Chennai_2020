@@ -1,0 +1,30 @@
+identity_attack
+insult
+obscene
+severe_toxicity
+sexual_explicit
+threat
+toxicity
+
+Sexy
+Neutral
+Porn
+Drawing
+Hentai
+
+curl -X POST http://localhost:5001/search -H "Content-Type: application/json" -d '{ "image_url":"http://placehold.it/350x150.png", "resized_images":false}'
+
+const axios = require('axios');
+const filesystem = require('fs');
+
+// Make request using to the api using axios
+axios.get('http://date.jsontest.com/')
+    .then(res => JSON.stringify(res)).then(response => {
+        // console.log(response.data);
+        filesystem.writeFile('response.json', response.data, function (err) {
+            console.log(err);
+        });
+    })
+    .catch(err => {
+        console.log(err)
+    });
