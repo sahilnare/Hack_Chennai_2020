@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp"
+
+    >
+
+    <TextView
+        android:id="@+id/textViewwebsite"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="15dp"
+        android:paddingTop="10dp"
+        android:text="TextView"
+        android:textColor="#000000"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textViewcomment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="15dp"
+        android:paddingTop="5dp"
+        android:text="TextView"
+        android:textColor="#000000"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textViewusername"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="15dp"
+        android:paddingTop="5dp"
+        android:text="TextView"
+        android:textColor="#000000"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textViewcommentlink"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:hint="blank"
+        android:paddingLeft="10dp"
+        android:paddingTop="5dp"
+        android:text="TextView"
+        android:textColor="#000000"
+        android:textColorHint="#000000"
+        android:textSize="8sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textViewuser_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="15dp"
+        android:paddingTop="5dp"
+        android:paddingBottom="10dp"
+        android:text="TextView"
+        android:textColor="#000000"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+</LinearLayout>

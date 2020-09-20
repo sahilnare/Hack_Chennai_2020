@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    tools:context=".Socialmediaoptions"
+    android:background="#000000">
+
+
+    <View
+        android:id="@+id/view"
+        android:layout_width="412dp"
+        android:layout_height="126dp"
+        android:background="#5000CA"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="0dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="-107dp">
+
+
+        <TextView
+            android:id="@+id/textView"
+
+
+            android:layout_width="411dp"
+            android:layout_height="114dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginBottom="8dp"
+            android:gravity="center"
+            android:text="SOCIAL MEDIA"
+            android:textColor="#000000"
+            android:textSize="50dp"
+            android:textStyle="bold" />
+
+        <View
+            android:id="@+id/view2"
+            android:layout_width="match_parent"
+            android:layout_height="99dp"
+            android:background="@drawable/ic_wave"
+            app:layout_constraintTop_toBottomOf="@+id/view"
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="0dp" />
+
+
+        <TextView
+            android:id="@+id/fbtextview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginBottom="20dp"
+
+            android:layout_weight="1"
+            android:background="@drawable/round_bg_fb"
+            android:gravity="center"
+            android:text="FACEBOOK"
+            android:textColor="#000000"
+            android:textSize="48sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/youtubetextview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginBottom="20dp"
+            android:layout_weight="1"
+            android:background="@drawable/round_bg_you"
+            android:gravity="center"
+            android:text="YOUTUBE"
+            android:textColor="#000000"
+            android:textSize="48sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/twittertextview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginLeft="8dp"
+
+            android:layout_marginEnd="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginBottom="20dp"
+            android:layout_weight="1"
+            android:background="@drawable/round_bg_twitter"
+            android:gravity="center"
+            android:text="TWITTER"
+            android:textColor="#000000"
+            android:textSize="48sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/reportview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginBottom="20dp"
+            android:layout_weight="1"
+            android:background="@drawable/round_report"
+            android:gravity="center"
+            android:text="REPORT USER"
+            android:textColor="#000000"
+            android:textSize="48sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
