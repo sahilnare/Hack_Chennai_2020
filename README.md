@@ -1,5 +1,5 @@
 # RAKSHAK
-Rakshak is an all-in-one integrated solution for prevention of cyber-crimes like cyber bullying/harassment, etc. We have built a web-extension, an android application and an admin dashboard website. This covers all the aspects, from prevention of crime through the custom Keyboard service to the automatically reporting of the crime to the authorities using the extension and android application accompanied by a portal wherein the analytics are performed on the data and the corresponding visualisations are displayed for a meaningful understanding.
+Rakshak is an all-in-one integrated solution for prevention of cyber-crimes like cyber bullying/harassment, etc. We have built a web-extension, an android application and an admin dashboard website. This covers all the aspects, from prevention of crime through the custom Keyboard service to the automatically reporting of the crime to the authorities using the extension and android application accompanied by a portal wherein the analytics are performed on the data and the corresponding visualisations are displayed for a meaningful understanding. This will help in reducing the cyber-crime in India and will make Internet a safe place for everyone.
 
 ## I) WEB EXTENSION
 
