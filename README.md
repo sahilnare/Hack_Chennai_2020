@@ -12,6 +12,18 @@ Rakshak is an all-in-one integrated solution for prevention of cyber-crimes like
 
 ## II) ANDROID APPLICATION
 
+###Custom Keyboard:
+
+*Installation:*
+1. Clone the repo.
+2. Open Custom Keyboard folder in Android Studio.
+3. Run the code on Emulator or Android Smartphone.
+4. To enable the custom keyboard service, Go to SETTINGS->GENERAL MANAGEMENT->LANGUAGE AND INPUT->CHANGE DEFAULT KEYBOARD TO CUSTOM KEYBOARD
+
+*Working:*
+1. You can use it with any chat application like messenger, whatsapp, etc.
+2. If user writes any hurtful message then a warning comes to reconsider the message.
+
 
 ## III) Dashboard
 It will be a password protected dashboard.
