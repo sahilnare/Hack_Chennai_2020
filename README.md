@@ -12,7 +12,7 @@ Rakshak is an all-in-one integrated solution for prevention of cyber-crimes like
 
 ## II) ANDROID APPLICATION
 
-###Custom Keyboard:
+### Custom Keyboard:
 
 *Installation:*
 1. Clone the repo.
