@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Aug 03 13:11:09 IST 2020
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\HP\\Desktop\\SIH_Keyboard2\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=classes.dex
+0.set=DEX
+count=1

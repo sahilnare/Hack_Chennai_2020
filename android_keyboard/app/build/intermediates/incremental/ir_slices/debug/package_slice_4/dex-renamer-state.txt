@@ -1,0 +1,4 @@
+#Sun Aug 02 15:16:42 IST 2020
+base.0=C\:\\Users\\HP\\Desktop\\SIH_Keyboard2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex

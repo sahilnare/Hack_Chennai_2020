@@ -1,0 +1,150 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\13c0ceafbc35ff3ffa9c3b3e6551a47f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\dc3dd846c1a6f56d5cc58f8de0c2320f\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\b7ab692edcbbb76184c2401bef80c01d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\276cdb74ee30f9b7cd2fa7b41522f91f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\3b3792d9b994b5888cb39d2d2a4945c8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\943450a69b99cc914d804427043f781c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d9b6ed22c7263cbba9ae304efc4eccbf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\8cfab2e78569f28829100b6b87e7d558\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\b31444a9d8b7abd103c5185b08d489ef\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d256116d9fab175f5b36c018a5ed1e2c\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\048fc056feb15bc3c299978be851ace8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2e4e03ce1fe0c85856439243cac45acb\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\cb2ce44c403aa0ecb7ead9ecdb0ed8bd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ca96efe5d07f14b86131df2ed796e831\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\6b17b6d4bf784d8ed09cff92c0e19bc4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\303f3feef07f99d3ff8c8121a613209e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\e20e7f2a6a67ac3735fdfcf5bbed67e3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\fd05d3c04a96c2db385c459ee8b73f28\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2d88b0bb2bec9c22b0532fabd1e0e8e4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\7ab311b059b995d3450d86f366cfdb94\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\1be6160a0896670212cb4156d762e473\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml:4:5-39
+		INJECTED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml:2:11-69
+	tools:ignore
+		ADDED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml:5:5-44
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml:8:22-64
+application
+ADDED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml:10:5-28:19
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\dc3dd846c1a6f56d5cc58f8de0c2320f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\dc3dd846c1a6f56d5cc58f8de0c2320f\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2e4e03ce1fe0c85856439243cac45acb\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2e4e03ce1fe0c85856439243cac45acb\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ca96efe5d07f14b86131df2ed796e831\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ca96efe5d07f14b86131df2ed796e831\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2e4e03ce1fe0c85856439243cac45acb\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml:16:9-40
+service#com.example.sih_keyboard.SMART_KEYBOARD
+ADDED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml:17:9-27:19
+	android:label
+		ADDED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml:19:13-44
+	android:permission
+		ADDED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml:20:13-70
+	android:name
+		ADDED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml:18:13-43
+meta-data#android.view.im
+ADDED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml:22:13-87
+	android:resource
+		ADDED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml:22:55-85
+	android:name
+		ADDED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml:22:24-54
+intent-filter#action:name:android.view.InputMethod
+ADDED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml:23:13-25:29
+action#android.view.InputMethod
+ADDED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml:24:17-67
+	android:name
+		ADDED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml:24:25-64
+uses-sdk
+INJECTED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\13c0ceafbc35ff3ffa9c3b3e6551a47f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\13c0ceafbc35ff3ffa9c3b3e6551a47f\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\dc3dd846c1a6f56d5cc58f8de0c2320f\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\dc3dd846c1a6f56d5cc58f8de0c2320f\AndroidManifest.xml:7:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\b7ab692edcbbb76184c2401bef80c01d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\b7ab692edcbbb76184c2401bef80c01d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\276cdb74ee30f9b7cd2fa7b41522f91f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\276cdb74ee30f9b7cd2fa7b41522f91f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\3b3792d9b994b5888cb39d2d2a4945c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\3b3792d9b994b5888cb39d2d2a4945c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\943450a69b99cc914d804427043f781c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\943450a69b99cc914d804427043f781c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d9b6ed22c7263cbba9ae304efc4eccbf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d9b6ed22c7263cbba9ae304efc4eccbf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\8cfab2e78569f28829100b6b87e7d558\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\8cfab2e78569f28829100b6b87e7d558\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\b31444a9d8b7abd103c5185b08d489ef\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\b31444a9d8b7abd103c5185b08d489ef\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d256116d9fab175f5b36c018a5ed1e2c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d256116d9fab175f5b36c018a5ed1e2c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\048fc056feb15bc3c299978be851ace8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\048fc056feb15bc3c299978be851ace8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2e4e03ce1fe0c85856439243cac45acb\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2e4e03ce1fe0c85856439243cac45acb\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\cb2ce44c403aa0ecb7ead9ecdb0ed8bd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\cb2ce44c403aa0ecb7ead9ecdb0ed8bd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ca96efe5d07f14b86131df2ed796e831\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ca96efe5d07f14b86131df2ed796e831\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\6b17b6d4bf784d8ed09cff92c0e19bc4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\6b17b6d4bf784d8ed09cff92c0e19bc4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\303f3feef07f99d3ff8c8121a613209e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\303f3feef07f99d3ff8c8121a613209e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\e20e7f2a6a67ac3735fdfcf5bbed67e3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\e20e7f2a6a67ac3735fdfcf5bbed67e3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\fd05d3c04a96c2db385c459ee8b73f28\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\fd05d3c04a96c2db385c459ee8b73f28\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2d88b0bb2bec9c22b0532fabd1e0e8e4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2d88b0bb2bec9c22b0532fabd1e0e8e4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\7ab311b059b995d3450d86f366cfdb94\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\7ab311b059b995d3450d86f366cfdb94\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\1be6160a0896670212cb4156d762e473\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\1be6160a0896670212cb4156d762e473\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\Desktop\Custom Keyboard\app\src\main\AndroidManifest.xml
