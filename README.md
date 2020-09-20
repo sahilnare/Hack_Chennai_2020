@@ -38,4 +38,4 @@ model architecture : bert\
 class : severe- toxic, obscene ,threat ,insult,identity-hate\
 2.For inappropiate image classification:\
 model architecture : mobilenet\
-class : Porn , Hentai , Sexy , Neutral , drawing\
+class : Porn , Hentai , Sexy , Neutral , drawing
