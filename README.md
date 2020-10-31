@@ -34,8 +34,8 @@ You can access the dashboard form here - [Dashboard](https://ebuzzet.com/rakshak
 
 ## IV) Deeplearning Model
 1.For toxic comment removal:\
-model architecture : bert\
-class : severe- toxic, obscene ,threat ,insult,identity-hate\
+model architecture : Universal Sentence Encoder\
+class : toxic, severe- toxic, obscene ,threat ,insult, identity-hate, sexual explicit\
 2.For inappropiate image classification:\
 model architecture : mobilenet\
 class : Porn , Hentai , Sexy , Neutral , drawing
